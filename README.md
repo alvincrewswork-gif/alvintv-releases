@@ -14,7 +14,7 @@ Latest APK (1.3.0): https://github.com/alvincrewswork-gif/alvintv-releases/relea
 3. Open Alvin TV and sign in with your provider's username and password. The phone app installs next to the TV app and is updated the same way.
 
 ## Windows 10/11 (64-bit)
-- Installer (recommended): https://github.com/alvincrewswork-gif/alvintv-releases/releases/download/windows-v1.1.0/AlvinTV-Setup.exe
-- Portable (no install): https://github.com/alvincrewswork-gif/alvintv-releases/releases/download/windows-v1.1.0/AlvinTV-Portable.exe
+- Installer (recommended): https://github.com/alvincrewswork-gif/alvintv-releases/releases/download/windows-v1.2.0/AlvinTV-Setup.exe
+- Portable (no install): https://github.com/alvincrewswork-gif/alvintv-releases/releases/download/windows-v1.2.0/AlvinTV-Portable.exe
 
 The app is not code-signed. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**.
